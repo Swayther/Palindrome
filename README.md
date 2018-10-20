@@ -1,2 +1,4 @@
 # Palindrome
-Simple way of determining whether or not a string entered is a palindrome
+==============
+
+Simple way of dectecting if the string entered is a palindrome.
